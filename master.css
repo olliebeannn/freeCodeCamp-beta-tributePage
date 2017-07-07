@@ -1,0 +1,18 @@
+body {
+  margin: 1rem;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+}
+
+ul {
+  display: block;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 100%;
+}
